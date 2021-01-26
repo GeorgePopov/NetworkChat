@@ -1,0 +1,85 @@
+# Default ignored files
+# Пользовательские вещи
+.idea / ** / workspace.xml
+.idea / ** / tasks.xml
+.idea / ** / usage.statistics.xml
+.idea / ** / словари
+.idea / ** / полка
+
+# Сгенерированные файлы
+.idea / ** / contentModel.xml
+
+# Конфиденциальные файлы или файлы с большим оттоком
+.idea / ** / dataSources /
+.idea / ** / dataSources.ids
+.idea / ** / dataSources.local.xml
+.idea / ** / sqlDataSources.xml
+.idea / ** / dynamic.xml
+.idea / ** / uiDesigner.xml
+.idea / ** / dbnavigator.xml
+
+# Gradle
+.idea / ** / gradle.xml
+.idea / ** / библиотеки
+
+# Gradle и Maven с автоматическим импортом
+# При использовании Gradle или Maven с автоматическим импортом следует исключить файлы модулей,
+# так как они будут воссозданы и могут вызвать отток. Раскомментируйте при использовании
+# автоматический импорт.
+# .idea / artifacts
+# .idea / compiler.xml
+# .idea / jarRepositories.xml
+# .idea / modules.xml
+# .idea / *. iml
+# .idea / modules
+# * .iml
+# * .ipr
+
+# CMake
+cmake-build- * /
+
+# Плагин Mongo Explorer
+.idea / ** / mongoSettings.xml
+
+# Файловый формат проекта
+* .iws
+
+# IntelliJ
+из /
+
+# mpeltonen / sbt-idea плагин
+.idea_modules /
+
+# Плагин JIRA
+atlassian-ide-plugin.xml
+
+# Плагин Cursive Clojure
+.idea / replstate.xml
+
+# Плагин Crashlytics (для Android Studio и IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+ткань. свойства
+
+# Клиент Rest на основе редактора
+.idea / httpRequests
+
+# Android studio 3.1+ сериализованный файл кеша
+.idea / кэша / build_file_checksums.ser
+
+### Maven ###
+log/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+# End of https://www.toptal.com/developers/gitignore/api/maven,java
